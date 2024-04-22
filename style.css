@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+
+    font-style: normal;
+}
+
+.post{
+    height: 600px;
+    width: 420px;
+    background-color: white;
+    margin: auto;
+}
+.post-title{
+    display: flex;
+    padding: 15px;
+    height: 30px;
+    font-size: 30px;
+}
+.post-title-text{
+    font-size: 15px;
+    margin: 0px 15px;
+    font-weight: 500;
+}
+.dots{
+    margin-left: auto;
+}
+.imagen{
+    height: 350px;
+    width: 100%;
+
+}
+.post-icons{
+    font-size: 25px;
+    margin: 10px 15px;
+    display: flex;
+    gap: 10px;
+}
+.plane{
+    margin-left:auto;
+}
+.post-text{
+    padding: 0px 15px;
+    font-size:15px;
+}
